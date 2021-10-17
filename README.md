@@ -1,4 +1,5 @@
 
+![](https://raw.githubusercontent.com/taylorkrn/Cplusplus-Server/main/Server_Client_Connection.png)
 
 
 # Creating a simple server with listen and response
