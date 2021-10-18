@@ -13,3 +13,4 @@
 - The function *handle_connection* is executed, the server simply repeats the request back to the Client
 - The connection is closed and the server waits for a new client (A client can also have arrived during the process and a new thread is then created)
 
+This Project is an example of a project from the 'Operating Systems, Networks and Concurrency' course at the University of Bremen. It shows my fundamental understanding of Servers and displays the simple opening and closing of a Port and Server.
